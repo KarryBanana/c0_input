@@ -1,0 +1,5 @@
+C:/Users/bill8/Desktop/c0_compiler/build/CMakeFiles/rebuild_cache.dir
+C:/Users/bill8/Desktop/c0_compiler/build/CMakeFiles/cmake_test.dir
+C:/Users/bill8/Desktop/c0_compiler/build/CMakeFiles/package.dir
+C:/Users/bill8/Desktop/c0_compiler/build/CMakeFiles/package_source.dir
+C:/Users/bill8/Desktop/c0_compiler/build/CMakeFiles/edit_cache.dir

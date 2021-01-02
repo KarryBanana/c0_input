@@ -1,0 +1,7 @@
+[jobs.c0]
+
+image = { source = "dockerfile", path = ".", tag = "miniplc0-cpp" }
+
+run = [
+  "./cmake_test $input $asm",
+]
